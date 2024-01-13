@@ -10,7 +10,7 @@ function Footer() {
     <div className='footer'>
         <div className='footer-logo'>
             <img src={footer_logo} alt='footer-icon'/>
-            <p>SHOPPER</p>
+            <p>Lu<span className='sp'>XX</span>y-Sho<span className='sp'>PP</span>ee</p>
         </div>
         <ul className='footer_links'>
             <li>Company</li>
@@ -32,7 +32,7 @@ function Footer() {
         </div>
         <div className='footer-copyright'>
             <hr/>
-            <p>Copyright @ 2023 - All Right Reserved.</p>
+            <p>Copyright @ 2024 - All Right Reserved.</p>
         </div>
     </div>
   )
